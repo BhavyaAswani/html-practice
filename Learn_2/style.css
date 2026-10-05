@@ -1,0 +1,59 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+    position:relative;
+}
+
+div{
+    background-color: #0F1111;
+    color:#FFFFFF;
+    height:60px;
+    display: block;
+}
+
+#logo{
+    font-size:35px;
+}
+
+select{
+    background-color: #E6E6E6;
+    width: 55px;
+    height:45px;
+    border:none;
+    padding: 10px;
+    border-radius:4px 0px 0px 4px;
+    top:0.5px;
+}
+
+#ind_image{
+    top:3px;
+}
+
+#search_bar{
+    border:none;
+    height:45px;
+    width:600px;
+    font-size: larger;
+    top:2.5px;
+}
+
+a{
+    margin-right:50px;
+}
+
+#logo1{
+    margin-right:30px;
+}
+
+#Go{
+    background-color: rgb(251,177,23);
+    height:45px;
+    width:50px;
+    border:none;
+    border-radius:0px 4px 4px 0px;
+}
+
+#ind_imagea{
+    margin:0;
+}
